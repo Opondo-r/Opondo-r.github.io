@@ -1,0 +1,6 @@
+{
+    "name": "robert/ss",
+    "require": {
+        "phpoffice/phpword": "^1.1"
+    }
+}
